@@ -200,4 +200,4 @@ node tests/frontend.test.cjs
 
 ## 许可证
 
-项目许可证尚未选定，没有包含 `LICENSE` 授权文件。许可问题请联系仓库所有者。运行依赖保留各自许可证，见 [THIRD_PARTY.md](THIRD_PARTY.md)。
+SideScreen项目自有代码采用 [MIT许可证](LICENSE)。第三方组件保留各自许可证，见 [THIRD_PARTY.md](THIRD_PARTY.md)。

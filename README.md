@@ -200,4 +200,4 @@ Runtime metrics are intentionally visible to allowed viewers. The repository con
 
 ## License
 
-A project license has not been selected. No `LICENSE` grant is included. Contact the repository owner about licensing. Runtime dependencies retain their own licenses; see [THIRD_PARTY.md](THIRD_PARTY.md).
+SideScreen's original project code is licensed under the [MIT License](LICENSE). Third-party components retain their respective licenses; see [THIRD_PARTY.md](THIRD_PARTY.md).
