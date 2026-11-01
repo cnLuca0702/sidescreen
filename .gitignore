@@ -1,0 +1,33 @@
+# Local dependencies and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+coverage/
+.coverage
+.pytest_cache/
+# Runtime data, screenshots, logs, local configuration and backups
+*.log
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.sqlite*
+*.db
+*.bak
+*.backup
+*.patch
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_*
+*.plist
+!deploy/*.plist.example
+backups/
+evidence/
+snapshots/
+local/
